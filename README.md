@@ -14,4 +14,4 @@
 - **網頁互動**
 <br>使用Vue框架建構動態網頁界面，未來希望能讓使用者可以輕鬆上傳影像並觀察瑕疵檢測的結果。透過Vue的雙向綁定特性，當使用者在前端進行操作時，能即時更新影像處理和預測結果，可以更直觀了解模型的預測效果。
 
-[課程網址](https://hahow.in/courses/586fae97a8aae907000ce721/discussions?item=5a1e1755a2c4b000589dda11)
+[學習課程網址](https://hahow.in/courses/586fae97a8aae907000ce721/discussions?item=5a1e1755a2c4b000589dda11)
