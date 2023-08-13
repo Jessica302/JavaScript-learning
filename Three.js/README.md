@@ -4,6 +4,7 @@
 <br>
 ### Project-ATOM
 使用Three.js創建原子核自轉和電子環繞的3D場景。其中包含場景設置、物體的創建和管理、照明效果的添加，並呈現動畫。
+其中運用到：
 1. 創建scene和WebGL的renderer，將渲染器的畫布添加到網頁中。<br>
 2. 設置camera的視角和位置。<br>
 3. 使用THREE.Object3D創建物件群組，將電子和原子核添加到該群組中。通過generateBall創建球體，並設置不同的位置和顏色。<br>
