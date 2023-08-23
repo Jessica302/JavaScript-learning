@@ -4,7 +4,7 @@
 <br>
 ### Projects
 - **Tree**
-- <img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/tree.png" width="200" height="200"/)
+- <img><img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/tree.png" width="200" height="200"/)
 <br>透過控制分支的位置、角度、速度和寬度，模擬樹的生長過程。在分枝過程中，創建新的分支並在畫布上繪製，同時使得原有的分支的寬度減小，模擬出樹木逐漸變細的效果。分枝過程會一直進行，直到分支的寬度小於一個閾值，此時樹木生長結束。
 
 - **九宮格圖形**
