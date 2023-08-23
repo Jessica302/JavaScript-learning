@@ -2,6 +2,7 @@
 使用在2D繪圖上。可以繪製各種幾何圖形、實現動畫效果等。
 <br>
 <br>
+
 ### Projects
 - **Tree**<br>
 <img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/tree.png" width=30%>
@@ -9,11 +10,13 @@
 
 <br>
 <br>
+<br>
 
 - **九宮格圖形**<br>
 <img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/nine-box%20grid.png" width=30%>
 創建具有動畫效果的九宮格，每個格子內有各種不同的幾何圖形，透過組合不同元素來設計複雜的圖形效果。其中使用translate和rotate來進行座標系統的轉換和旋轉，可以在不同位置和角度上繪製圖形，使用requestAnimationFrame，在每次動畫中更新狀態和繪製圖形。
 
+<br>
 <br>
 <br>
 
