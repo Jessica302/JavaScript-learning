@@ -3,7 +3,7 @@
 <br>
 <br>
 ### Project-ATOM
-![image](https://github.com/Jessica302/JavaScript-learning/blob/main/Three.js/Atom.png =100x200)
+![image](https://github.com/Jessica302/JavaScript-learning/blob/main/Three.js/Atom.png =100*200)
 
 使用Three.js創建原子核自轉和電子環繞的3D場景，包含場景設置、物體的創建和管理、照明效果的添加，並呈現動畫。其中運用到：
 1. 創建scene和WebGL的renderer，將渲染器的畫布添加到網頁中。<br>
