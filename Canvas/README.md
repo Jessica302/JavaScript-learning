@@ -11,12 +11,12 @@
 <br>
 
 - **九宮格圖形**<br>
-<img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/nine-box%20grid.png" width="300" height="250">
+<img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/nine-box%20grid.png" width=30%>
 創建具有動畫效果的九宮格，每個格子內有各種不同的幾何圖形，透過組合不同元素來設計複雜的圖形效果。其中使用translate和rotate來進行座標系統的轉換和旋轉，可以在不同位置和角度上繪製圖形，使用requestAnimationFrame，在每次動畫中更新狀態和繪製圖形。
 
 <br>
 <br>
 
 - **城堡**<br>
-<img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/Castle.png" width="300" height="250">
+<img src="https://github.com/Jessica302/JavaScript-learning/blob/main/Canvas/Castle.png" width=30%>
 透過Canvas繪製城堡、車子、旗子和滑鼠位置追蹤的畫面。利用Canvas在畫布上畫網格、車子軌道和座標軸的刻度。旗子能根據滑鼠位置和時間變化，能飄揚和改變顏色。車子則是根據時間的變化，能在軌道上移動。在畫布上也能追蹤滑鼠的位置，繪製一個小黑點來標示當前滑鼠位置。
